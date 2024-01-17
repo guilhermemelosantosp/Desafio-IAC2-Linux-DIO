@@ -23,7 +23,7 @@ Neste desafio, foi criado um script para fazer atualização do Linux instalar o
 ## Descrição de como foi criado script e que cada linha faz.
 
 ##### Primeiro passo foi criar um arquivo chamado script-apache2.sh. Com o comando "touch" que serve para criar arquivos em branco, com qualquer extensão.  
-
+ 
 ```
 touch script-apache2.sh
 ```
