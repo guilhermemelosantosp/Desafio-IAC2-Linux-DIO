@@ -88,8 +88,8 @@ cp /tmp/linux-site-dio-main/* /var/www/html -rv
 ```
 
 ## Demonstração
-
 <img src="script.gif">
+
 
 ## Aprendizados
 
